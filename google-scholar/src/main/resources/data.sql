@@ -1,0 +1,3 @@
+INSERT INTO PAPER(DOI, AUTHOR, TITLE, CITATIONS) VALUES('10.1007-s12599-018-0542-4', 'Wil van der Aalst', 'Robotic Process Automations', 6);
+INSERT INTO PAPER(DOI, AUTHOR, TITLE, CITATIONS) VALUES('10.1057-jittc.2016.5', 'Aleksandre Asatiani', 'Turning RPA into commercial success', 54);
+INSERT INTO PAPER(DOI, AUTHOR, TITLE, CITATIONS) VALUES('10.1515-picbe-2017-0072', 'Sorin Anagnoste', 'RPA - next major revolution', 30);
